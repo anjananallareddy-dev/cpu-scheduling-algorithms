@@ -1,18 +1,37 @@
-# cpu-scheduling-algorithms
-Implementation of CPU scheduling algorithms for Operating Systems
-Algorithms Implemented
-First Come First Serve (FCFS)
-Shortest Job First (SJF)
-Priority Scheduling
-Round Robin
-Features
-Calculates waiting time and turnaround time
-Compares performance of different scheduling algorithms
-Displays scheduling results clearly
-Tech Stack
-C / C++
-Operating Systems concepts
-Data Structures
-How to Run
-Compile the source code
-Run the program and provide process details as input
+# CPU Scheduling Algorithms
+
+This project demonstrates the implementation of various CPU scheduling algorithms as part of an Operating Systems mini project. It helps in understanding how different scheduling techniques affect process execution, waiting time, and turnaround time.
+
+---
+
+## Algorithms Implemented
+
+- First Come First Serve (FCFS)
+- Shortest Job First (SJF)
+- Priority Scheduling
+- Round Robin
+
+---
+
+## Features
+
+- Calculates **Waiting Time** and **Turnaround Time**
+- Compares performance of different scheduling algorithms
+- Provides clear and structured output
+- Easy-to-understand implementation for learning purposes
+
+---
+
+## Tech Stack
+
+- C / C++
+- Operating Systems Concepts
+- Data Structures
+
+---
+
+## How to Run
+
+1. Compile the program:
+   ```bash
+   gcc filename.c -o output
